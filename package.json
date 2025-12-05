@@ -2,11 +2,11 @@
   "name": "vscode-jetbrains-keybindings",
   "displayName": "JetBrains IDE Keymap",
   "description": "JetBrains IDE Keymap Extension for VS Code.",
-  "version": "0.1.8",
-  "publisher": "isudox",
+  "version": "0.0.1",
+  "publisher": "alii",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.27.2"
+    "vscode": "^1.106.3"
   },
   "categories": [
     "Keymaps"
@@ -19,18 +19,18 @@
   ],
   "preview": false,
   "icon": "jetbrains_keyboard.png",
-  "extensionKind": "ui",
-  "activationEvents": [
-    "*"
-  ],
-  "main": "./extension",
+  "extensionKind": ["ui"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/isudox/vscode-jetbrains-keybindings.git"
+    "url": "https://github.com/alii/vscode-jetbrains-keybindings.git"
   },
   "bugs": {
-    "url": "https://github.com/isudox/vscode-jetbrains-keybindings/issues",
-    "email": "isudox@gmail.com"
+    "url": "https://github.com/alii/vscode-jetbrains-keybindings/issues",
+    "email": "hi@alistair.sh"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.106.1",
+    "typescript": "^5.9.3"
   },
   "contributes": {
     "keybindings": [
@@ -1050,16 +1050,5 @@
         }
       }
     }
-  },
-  "scripts": {
-    "postinstall": "node ./node_modules/vscode/bin/install",
-    "test": "node ./node_modules/vscode/bin/test"
-  },
-  "devDependencies": {
-    "typescript": "^2.6.1",
-    "vscode": "^1.1.6",
-    "eslint": "^4.6.1",
-    "@types/node": "^7.0.43",
-    "@types/mocha": "^2.2.42"
   }
 }

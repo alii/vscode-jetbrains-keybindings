@@ -1,13 +1,8 @@
 # JetBrains-like Keymap for Visual Studio Code.
 
-[![Build Status](https://travis-ci.com/isudox/vscode-jetbrains-keybindings.svg?branch=master)](https://travis-ci.com/isudox/vscode-jetbrains-keybindings)
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version-short/isudox.vscode-jetbrains-keybindings.svg)](https://marketplace.visualstudio.com/items?itemName=isudox.vscode-jetbrains-keybindings)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/isudox.vscode-jetbrains-keybindings.svg)](https://marketplace.visualstudio.com/items?itemName=isudox.vscode-jetbrains-keybindings)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/isudox.vscode-jetbrains-keybindings.svg)](https://marketplace.visualstudio.com/items?itemName=isudox.vscode-jetbrains-keybindings)
-[![GitHub stars](https://img.shields.io/github/stars/isudox/vscode-jetbrains-keybindings.svg)](https://github.com/isudox/vscode-jetbrains-keybindings)
-[![GitHub issues](https://img.shields.io/github/issues/isudox/vscode-jetbrains-keybindings.svg)](https://github.com/isudox/vscode-jetbrains-keybindings/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/isudox/vscode-jetbrains-keybindings.svg)](https://github.com/isudox/vscode-jetbrains-keybindings/pulls)
-[![GitHub license](https://img.shields.io/github/license/isudox/vscode-jetbrains-keybindings.svg)](https://github.com/isudox/vscode-jetbrains-keybindings/blob/master/LICENSE)
+> Fork of (isudox/vscode-jetbrains-keybindings)[https://github.com/isudox/vscode-jetbrains-keybindings] with no runtime execution
+
+--
 
 Inspired by the [Sublime Text Keymap extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) from Microsoft. 
 
@@ -15,7 +10,7 @@ This extension imports keybindings from JetBrains to VS Code. After installing t
 
 This keymap has covered most of keyboard shortcuts of VS Code, and makes VS Code more 'JetBrains IDE like'.
 
-But this extension hasn't transfer all keybindings of JetBrains yet. If you want more feature, go to [GitHub Issues](https://github.com/isudox/vscode-jetbrains-keybindings/issues) and make it more effective for your developement.
+But this extension hasn't transfer all keybindings of JetBrains yet. If you want more feature, go to [GitHub Issues](https://github.com/alii/vscode-jetbrains-keybindings/issues) and make it more effective for your developement.
 
 ## Contributing
 
