@@ -3,7 +3,7 @@
 > [!NOTE]
 > Fork of [isudox/vscode-jetbrains-keybindings](https://github.com/isudox/vscode-jetbrains-keybindings) with no runtime execution
 
---
+---
 
 Inspired by the [Sublime Text Keymap extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) from Microsoft. 
 
