@@ -1,6 +1,7 @@
 # JetBrains-like Keymap for Visual Studio Code.
 
-> Fork of (isudox/vscode-jetbrains-keybindings)[https://github.com/isudox/vscode-jetbrains-keybindings] with no runtime execution
+> [!NOTE]
+> Fork of [isudox/vscode-jetbrains-keybindings](https://github.com/isudox/vscode-jetbrains-keybindings) with no runtime execution
 
 --
 
